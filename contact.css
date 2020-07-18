@@ -1,0 +1,35 @@
+
+
+
+body {
+    background-image: url(https://i.pinimg.com/236x/ff/d3/5f/ffd35f804acd8301fc68dccdd3df6e69--black-background-design-background-designs.jpg);
+    text-align: center;
+}
+
+
+h1 {
+    color: white
+}
+
+p {
+    color: white;
+
+}
+
+#navbar {
+    padding: 1px;
+    font-size: 28px;
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+
+#navbar > ul {
+display: flex;
+justify-content: space-evenly;
+}
+
+a {
+    color:black;
+}
+
